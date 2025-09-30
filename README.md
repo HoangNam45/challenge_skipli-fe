@@ -31,7 +31,7 @@ challenge_fe/
 
 Setup & Run
 
-1. git clone <link>
+1. git clone https://github.com/HoangNam45/challenge_skipli-fe.git
 2. npm install
 3. Configure environment variables  
    You have to create the .env file yourself(same level with src folder)  
@@ -41,7 +41,7 @@ Setup & Run
 
 4. Start the server  
    For development: npm run dev  
-   For production(for better experience):  
+   For production(better experience):  
     npm run build  
     npm run start
 
@@ -62,6 +62,54 @@ Verify Access Code
 Employee Management Page
 
 ![Employee Management Page](./public/EmployeeManagenebt.PNG)
+
+Create Employee
+
+![Create Employee](./public/CreateEmployee.PNG)
+
+Edit Employee Profile
+
+![Edit Employee Profile](./public/UpdateEmployee.PNG)
+
+Task Management Page
+
+![Task Management Page](./public/TaskManagement.PNG)
+
+Assign Task To Employee
+
+![Assign Task To Employee](./public/AssignTask.PNG)
+
+Message With Employee Page
+
+![Message With Employee Page](./public/Message.PNG)
+
+![Chat Window](./public/ChatWindow.PNG)
+
+## Employee
+
+Invitation Mail
+
+![Invitation Mail](./public/InvitationMail.PNG)
+
+Account Setup Page
+
+![Account Setup Page](./public/SetupAccount.PNG)
+
+Employee Login Page
+
+![Employee Login Page](./public/EmployeeLogin.PNG)
+
+Employee Dashboard
+
+![Employee Dashboard](./public/EmployeeDashboard.PNG)
+
+Edit Profile
+
+![Edit Profile](./public/EditProfile.PNG)
+
+Chat With Owner
+
+![Chat With Owner](./public/MessageWithOwner.PNG)
 
 Notes
 
